@@ -1,1 +1,2 @@
-# PHP-Sentiment-Analyzer
+# textMood
+Sentyment analysis with PHP
